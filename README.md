@@ -4,6 +4,10 @@
 
 <p align="justify">Site desenvolvido com html, css e javascript vanilla seguindo layout e curso da Origamid.</p>
 
+## Deploy no Netlify:
+https://animais-fantastico.netlify.app/
+
+
 ## Conhecimento adquirido 
 - [X] ES6+
 - [X] Pequenas animações em css
