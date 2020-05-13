@@ -1,5 +1,24 @@
 # animais-fantastico
 
-Site desenvolvido com html, css e javascript vanilla seguindo layout e curso da Origamid.
+## Descrição do Projeto
 
-No projeto tive o conhecimento de ES6+, pequenas animações em css, modules do javascript, consumo de api rest, regex, classes...
+<p align="justify">Site desenvolvido com html, css e javascript vanilla seguindo layout e curso da Origamid.</p>
+
+## Conhecimento adquirido 
+- [X] ES6+
+- [X] Pequenas animações em css
+- [X] Modules
+- [X] Consumo de api rest
+- [X] Regex
+- [X] Classes
+
+
+> Status do Projeto: Em desenvolvimento :warning:
+
+
+## Como rodar a aplicação
+
+No terminal clone o projeto 
+> git clone https://github.com/amandagdev/animais-fantastico.git
+
+Agora é só abrir o arquivo index.html
