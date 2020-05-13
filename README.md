@@ -8,7 +8,7 @@
 https://animais-fantastico.netlify.app/
 
 
-## Conhecimento adquirido 
+## Conhecimentos adquiridos 
 - [X] ES6+
 - [X] Pequenas animações em css
 - [X] Modules
