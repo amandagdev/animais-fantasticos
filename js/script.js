@@ -6,6 +6,7 @@ import initModal from './modules/modal.js';
 import initTooltip from './modules/tooltip.js';
 import initDropDownMenu from './modules/dropdown-menu.js';
 
+initScrollSuave();
 initAnimationScroll();
 initAccordion();
 initTabNav();
