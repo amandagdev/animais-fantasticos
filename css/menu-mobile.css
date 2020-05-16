@@ -21,7 +21,7 @@
     width: 18px;
     display: flex;
     box-shadow: 0 -5px #fb5, 0 5px #fb5;
-    transition: transform 0.3s;
+    transition: transform 0.5s;
   }
 
   .js [data-menu='button'].active::before {
