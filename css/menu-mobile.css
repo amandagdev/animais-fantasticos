@@ -12,6 +12,7 @@
     cursor: pointer;
     position: relative;
     z-index: 300;
+    background-color: #fff;
   }
 
   .js [data-menu='button']::before {
