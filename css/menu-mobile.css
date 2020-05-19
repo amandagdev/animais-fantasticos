@@ -3,6 +3,9 @@
 }
 
 @media (max-width: 700px) {
+  .js .menu {
+    height: 50px;
+  }
   .js [data-menu='button'] {
     display: block;
     padding: 0.8rem;
