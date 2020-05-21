@@ -8,6 +8,9 @@ import initDropDownMenu from './modules/dropdown-menu.js';
 import initMenuMobile from './modules/menu-mobile.js';
 import initFuncionamento from './modules/funcionamento.js';
 import initAnimaisFetch from './modules/animaisFetch.js';
+import initCountdown from './modules/countdown.js';
+
+const dias = new initCountdown('24 December 2020 23:00:00 GMT-0300');
 
 initScrollSuave();
 initAnimationScroll();
