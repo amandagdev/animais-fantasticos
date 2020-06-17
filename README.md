@@ -15,6 +15,8 @@ https://animais-fantastico.netlify.app/
 - [X] Consumo de api rest
 - [X] Regex
 - [X] Classes
+- [X] Eslint
+- [X] Webpack
 
 
 > Status do Projeto: Em desenvolvimento :warning:
