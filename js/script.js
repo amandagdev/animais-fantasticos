@@ -1,4 +1,4 @@
-import initScrollSuave from './modules/scroll-suave.js';
+import ScrollSuave from './modules/scroll-suave.js';
 import initAnimationScroll from './modules/scroll-animacao.js';
 import initAccordion from './modules/accordion.js';
 import initTabNav from './modules/tabNav.js';
@@ -12,7 +12,9 @@ import initCountdown from './modules/countdown.js';
 
 const dias = new initCountdown('24 December 2020 23:00:00 GMT-0300');
 
-initScrollSuave();
+const scrollSuave = new ScrollSuave('[data-menu="suave"] a[href^="#"]');
+scrollSuave.init();
+
 initAnimationScroll();
 initAccordion();
 initTabNav();
