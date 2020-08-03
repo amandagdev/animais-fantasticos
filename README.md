@@ -20,7 +20,7 @@ https://animais-fantastico.netlify.app/
 - [x] Webpack
 - [x] Babel
 
-> Status do Projeto: Em desenvolvimento :warning:
+> Status do Projeto: Finalizado :heavy_check_mark:
 
 ## Como rodar a aplicação
 
